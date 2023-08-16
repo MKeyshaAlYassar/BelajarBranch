@@ -1,1 +1,9 @@
 Ini merupakan file baru untuk mencoba commit ke branch development
+
+
+Membuat perubahan untuk mencoba kolaborasi
+
+Perubahan untuk Squash 1
+Perubahan untuk Squash 2
+Perubahan untuk Squash 3
+
